@@ -1,0 +1,60 @@
+[{
+  "_id": {
+    "$oid": "655a468aacc174f7a2f50021"
+  },
+  "name": "Coka-cola cherry",
+  "size": 0.33,
+  "SKU": "item_17745",
+  "net_cost": 0.86,
+  "selling_price": 2.5
+},
+{
+  "_id": {
+    "$oid": "655a468aacc174f7a2f50022"
+  },
+  "name": "Coka-cola vanila",
+  "size": 0.33,
+  "SKU": "item_00045",
+  "net_cost": 0.85,
+  "selling_price": 2.5
+},
+{
+  "_id": {
+    "$oid": "655a468aacc174f7a2f50023"
+  },
+  "name": "Coka-cola Diet",
+  "size": 0.33,
+  "SKU": "item_12045",
+  "net_cost": 0.8,
+  "selling_price": 2.5
+},
+{
+  "_id": {
+    "$oid": "655a468aacc174f7a2f50024"
+  },
+  "name": "Coka-cola",
+  "size": 0.33,
+  "SKU": "item_19845",
+  "net_cost": 0.76,
+  "selling_price": 2.5
+},
+{
+  "_id": {
+    "$oid": "655a468aacc174f7a2f50025"
+  },
+  "name": "Fanta",
+  "size": 0.33,
+  "SKU": "item_10045",
+  "net_cost": 0.82,
+  "selling_price": 2.5
+},
+{
+  "_id": {
+    "$oid": "655a468aacc174f7a2f50026"
+  },
+  "name": "Water",
+  "size": 0.5,
+  "SKU": "item_12678",
+  "net_cost": 0.55,
+  "selling_price": 2.2
+}]
