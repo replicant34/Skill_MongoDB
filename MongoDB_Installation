@@ -1,0 +1,9 @@
+(base) iliagrishkin@Ilias-MacBook-Pro ~ % brew tap mongodb/brew
+(base) iliagrishkin@Ilias-MacBook-Pro ~ % brew update
+(base) iliagrishkin@Ilias-MacBook-Pro ~ % brew install mongodb-community@7.0
+(base) iliagrishkin@Ilias-MacBook-Pro ~ % brew install mongodb-community@7.0
+(base) iliagrishkin@Ilias-MacBook-Pro ~ % mongosh                           
+(base) iliagrishkin@Ilias-MacBook-Pro ~ % mongod --config /opt/homebrew/etc/mongod.conf --fork
+(base) iliagrishkin@Ilias-MacBook-Pro ~ % mongod --version
+(base) iliagrishkin@Ilias-MacBook-Pro ~ % brew services start mongodb/brew/mongodb-community
+(base) iliagrishkin@Ilias-MacBook-Pro ~ % mongosh
